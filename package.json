@@ -1,0 +1,33 @@
+{
+  "name": "clientportal",
+  "version": "1.0.0",
+  "description": "CLient portal for customers to make orders",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasir-repos/clientportal.git"
+  },
+  "author": "nasir ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nasir-repos/clientportal/issues"
+  },
+  "homepage": "https://github.com/nasir-repos/clientportal#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
